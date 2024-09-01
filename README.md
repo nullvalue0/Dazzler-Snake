@@ -1,4 +1,4 @@
-# DazzlerSnake
+# Dazzler Snake
  Dazzler Snake game for the Cromemco Dazzler
 
 This is a new game developed for the Cromemco Dazzler video card. It was developed in Z80 Assembly, directly on real hardward including an original Cromemco ZPU, D+7A, Memory Merchant 64KB RAM, and a [reproduction dazzler board set](https://forum.vcfed.org/index.php?threads/cromemco-dazzler-replica-project.77906/). These are all plugged into the S100 Motherboard V5(https://github.com/nullvalue0/S100MotherboardV5). Game was sssembled using the original Cromemco Z80 Macro Assembler.
@@ -11,4 +11,4 @@ This game can take input from a keyboard or joystick. For joystick, I am using a
 
 ![Snake running emulated in z80pack](https://github.com/nullvalue0/Dazzler-Snake/blob/main/snake_emulator.png?raw=true)
 
-This is the first application I have ever written in Z80 ASM, and has been a very rewarding experience. The code is extremely unoptimized, but it works!!
+This is the first application I have ever written in Z80 ASM, and has been a very rewarding experience. The code is extremely unoptimized, but it works! Special thanks for all the help to the folks at the VCF Forum!
